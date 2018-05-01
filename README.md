@@ -10,11 +10,11 @@ You need an extra linux server to be the man in the middle
 Server running command：
 一键运行脚本
 ```bash
-yum install git;git clone https://github.com/zaipinai/PUBG-Cloud-Radar-SSRoptional.git; chmod +x . /root/PUBG-Cloud-Radar/update.sh;. /root/PUBG-Cloud-Radar/update.sh
+yum install git;git clone https://github.com/zaipinai/PUBG-Cloud-Radar-SSRoptional.git; chmod +x . /root/PUBG-Cloud-Radar-SSRoptional/update.sh;. /root/PUBG-Cloud-Radar-SSRoptional/update.sh
 ```
 Server running command（不包含SSR客户端）：
 ```bash
-yum install git;git clone https://github.com/zaipinai/PUBG-Cloud-Radar-SSRoptional.git; chmod +x . /root/PUBG-Cloud-Radar/updatewithnossr.sh;. /root/PUBG-Cloud-Radar/updatewithnossr.sh
+yum install git;git clone https://github.com/zaipinai/PUBG-Cloud-Radar-SSRoptional.git; chmod +x . /root/PUBG-Cloud-Radar-SSRoptional/updatewithnossr.sh;. /root/PUBG-Cloud-Radar-SSRoptional/updatewithnossr.sh
 ```
 
 ## Translation
